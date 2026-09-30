@@ -1,0 +1,6 @@
+{
+  "name": "Game Theory Group Interview & Selection System",
+  "description": "Simulate a group interview where candidates make strategic decisions. The system evaluates individual and group performance using Game Theory principles and selects the Top 30 candidates for the next round.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
